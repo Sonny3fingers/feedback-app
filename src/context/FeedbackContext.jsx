@@ -1,4 +1,4 @@
-import React, { createContext, useContext, useState } from "react";
+import React, { createContext, useState } from "react";
 import { v4 as uuid4 } from "uuid";
 
 const FeedbackContext = createContext();
